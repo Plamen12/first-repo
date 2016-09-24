@@ -1,3 +1,5 @@
 # first-repo
 
-Repo madefor testing.
+Repo made for testing.
+
+this will be a nice project.
